@@ -15,8 +15,8 @@ extern const unsigned char copyright[];
 extern const unsigned char disparador[];
 extern const unsigned char open[];
 extern const unsigned char spiral[];
-
-
+extern const unsigned char chino[];
+extern const unsigned char tools[];
 
 
 

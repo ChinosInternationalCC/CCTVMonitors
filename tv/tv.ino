@@ -368,6 +368,12 @@ unsigned char w,l,wb;
   TV.bitmap(60,40,bomb);
   TV.delay(10000);
   TV.clear_screen();
+  TV.bitmap(60,40,chino);
+  TV.delay(10000);
+  TV.clear_screen();
+  TV.bitmap(60,40,tools);
+  TV.delay(10000);
+  TV.clear_screen();
 }
 void loop()
 {
